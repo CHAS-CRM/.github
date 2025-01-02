@@ -8,7 +8,6 @@ This project aims to create a CRM system for managing a neural network that proc
 
 - **Lead Developer**: [dreamerScape](https://github.com/dreamerScape) (Email: [byreymakar@gmail.com](mailto:byreymakar@gmail.com))
 - **Owners**:
-  - [SamcraftSam](https://github.com/SamcraftSam)
   - [dreamerScape](https://github.com/dreamerScape)
 - **Developers**:
   - [dreamerScape](https://github.com/dreamerScape)
